@@ -1,7 +1,8 @@
 {
-  "frames" : [
+  "frames" : [ 
     {
-      "chartData": [1, 10, 15, 20, 6, 9, 11, 16, 22, 24]
+      "icon": "46248",
+      "text": "Hello World"
     }
   ]
 }
